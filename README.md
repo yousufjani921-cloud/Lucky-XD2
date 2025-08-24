@@ -61,8 +61,6 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 🟢 Pair Code Authentication
 
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code%20One-red?style=for-the-badge&logo=opencv&logoColor=black)](https://lucky-xd-pair-3.onrender.com)
-
 
 [![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code%20Two-green?style=for-the-badge&logo=opencv&logoColor=black)](https://lucky-xd-pair-code-2.onrender.com)
 > 🔵 QR Code Authentication
