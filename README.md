@@ -2,24 +2,20 @@
   <img src="https://i.imgur.com/LyHic3i.gif" />
 </p>
 
+
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=60&pause=1000&color=df2e46&center=true&width=910&height=100&lines=Lucky-XD-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Lucky218" alt="Typing SVG" />
   </a> 
-</div> 
-
+</div>
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" />
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/4itzeu.jpg" />
-</p>
 
-### 📊 Visitor Counter
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Tomilucky218/count.svg" alt="visitor counter"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=511080&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
+  </div>
+<a><img src='https://files.catbox.moe/4itzeu.jpg'/></a>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
@@ -39,13 +35,27 @@
   </p>
 
 </div>
+<div align="center">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+LUCKY+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPED+BY+MR+LUCKY 218;🚀+LUCKY-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+</h1>
 
 
-# LUCKY-XD Setup
+***BOT FEATURE ⤵️***
+
+| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+
+
+# LUCKY-XD SETUP
 
 ### 🚀 Fork the Repository
 
-To start, fork this repository to your own GitHub account by clicking the button below:
+<p align='center'>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
 
 <a href="https://github.com/Tomilucky218/Lucky-XD2/fork"><img src="https://img.shields.io/github/forks/Tomilucky218/Lucky-XD2?style=for-the-badge&logo=github&color=4c1&label=Fork%20LUCKY-XD" alt="Fork LUCKY-XD" /></a>
 
@@ -55,95 +65,61 @@ To start, fork this repository to your own GitHub account by clicking the button
 
 Authenticate using **one** of the methods below to generate your `Session ID`.
 
+<p align="left">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
+</p>
+
+> 📲 Pair Code Authentication 1
+
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvin-session-27hw.onrender.com/pair)
+
+> 📲 Pair Code Authentication 2
+
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvinxd-pairsession.onrender.com/pair)
+
+> 📱 QR Code Authentication 3
+
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://malvin-session-27hw.onrender.com/qr)
+
+
+
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
 </p>
 
-> 🟢 Pair Code Authentication
 
-
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code%20Two-green?style=for-the-badge&logo=opencv&logoColor=black)](https://lucky-xd-session-site.onrender.com)
-> 🔵 QR Code Authentication
-
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucky-xd-pair-1.onrender.com/qr)
-
-
-
-#### 🧩 Session App
-
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucky-xd-pair-1.onrender.com)
-
-
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
-</p>
-
-<p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/Tomilucky218/Lucky-XD2/blob/main/assets/warning.gif?raw=true" width="15" />
-  <em>Having connection issues? Try using a VPN.</em>
-</p>
-
+## _📡 DEPLOYMENT_
 
 <div align="center">
-  <img src="https://github.com/Tomilucky218/Lucky-XD2/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/Tomilucky218/Lucky-XD2" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://host.talkdrove.com/dashboard/deploy-bot/75" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Tomilucky218/Lucky-XD2" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Coming soon VPS-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
 </div>
 
-<h2 align="center">🚀 Deploy LUCKY-XD Anywhere</h2>
 
-<p align="center">Choose a platform and deploy instantly:</p>
-
-<div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
-
-🔵 <b>Heroku:</b>  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Tomilucky218/Lucky-XD2" target="_blank">
-  <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
-</a>
-
-💗 <b>Koyeb:</b>  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=Tomilucky218/Lucky-XD2" target="_blank">
-  <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
-</a>
-
-⚫ <b>Railway:</b>  
-<a href="https://railway.app/new" target="_blank">
-  <img src="https://img.shields.io/badge/Railway-Deploy-121212?style=flat-square&logo=railway&logoColor=white" alt="Railway">
-</a>
-
-💚 <b>Render:</b>  
-<a href="https://dashboard.render.com/web/new" target="_blank">
-  <img src="https://img.shields.io/badge/Render-Deploy-00C7A9?style=flat-square&logo=render&logoColor=white" alt="Render">
-</a>
-
-💎 <b>Netlify:</b>  
-<a href="https://app.netlify.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Netlify-Deploy-00ADB5?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
-</a>
-
-🟡 <b>TalkDrove:</b>  
-<a href="https://talkdrove.com" target="_blank">
-  <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
-</a>
-
-</div>
+<a href="https://sub4unlock.io/ymMe4"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-BXD?style=for-the-badge&logo=github&color=4c1&label=Deploy%20Button-version" alt="Fork MALVIN-XD" /></a>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
- <h4 align="center">9. Workflow</h4>
+ <h4 align="center"> Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
 <details>
 
-<b><strong><summary align="center" style="color: Yello;">Deploy Lucky On Workflow</summary></strong></b>
+<b><strong><summary align="center" style="color: Yello;">Deploy Lucky XD On Workflow</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
  
 <h8>Copy the workflow codes and then fork the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
@@ -206,9 +182,11 @@ jobs:
 
 > ✅ Deploy to any panel service of your choice.
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
-### 🛠️ Recommended Hosting Panels
+### 🛠️ VPS / Hosting Panels
 
 <div align="center">
   <table>
@@ -234,14 +212,13 @@ jobs:
   </table>
 </div>
 
-> 💡 Ensure your panel has **at least 2GB RAM**  
-> 🔧 _Working on LUCKY-XD compatibility with free-tier panel hosts_
+> 🔧 _Fixed panel issues Enjoy...deploy to any free tier servers etc_
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
 
----
+
 
 ## ⚠️ DISCLAIMER
 
@@ -253,16 +230,18 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
 
----
+
 
 ## 💡 CREDITS & CONTRIBUTORS
 
 > Built with ❤️ by **Lucky 218**
 
-- 👤 [Lucky 218](https://github.com/Tomilucky218) — Creator & Maintainer  
+- 👤 [Malvin King](https://github.com/Tomilucky218) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
 ## 🗃️ PROJECT ARCHITECTS
 
@@ -276,7 +255,9 @@ jobs:
   <img src="https://github.com/Tomilucky218/Lucky-XD2/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
 ## 🌐 JOIN OUR SUPPORT CHANNELS
 
@@ -289,21 +270,37 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
 </p>
 
----
 
-## LUCKY STATUS
+
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+## 🤖 LUCKY-XD STATUS_
 
 ```diff
 + Project Status: Active
-! Version: 0.0.5 Neon Edition
-# License: APACHE
+! Version: V.1.5.0 Neon Edition
+# License: MIT
 ```
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<!-- New Animated Contributors -->
+<div style="margin-top:20px">
+
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/Tomilucky218/Lucky-XD2/graphs/contributors)
+
+</div>
+
+</div>
 
 <p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/Tomilucky218/Lucky-XD2/stargazers"> <img src="http://reporoster.com/stars/dark/Tomilucky218/Lucky-XD2" alt="Stargazers repo roster for @Tomilucky218/Lucky-XD2"> </a> </p> <p align="center"> <a href="https://github.com/Tomilucky218/Lucky-XD2/network/members"> <img src="http://reporoster.com/forks/dark/Tomilucky218/Lucky-XD2" alt="Forkers repo roster for @Tomilucky218/Lucky-XD2"> </a> </p> 
 
-
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
 
